@@ -4,4 +4,7 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-macroquad = "0.4.14"
+pixels = "0.15.0"
+rusttype = "0.9.3"
+winit = "0.30.12"
+
